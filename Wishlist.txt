@@ -1,4 +1,5 @@
 * Movie
   - Kubo and The Two Strings
+  - KnY Movie
 * Game
   - Sky : The Childrens of Light
